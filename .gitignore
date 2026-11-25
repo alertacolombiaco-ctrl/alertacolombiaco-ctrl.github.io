@@ -1,0 +1,17 @@
+# Creado por Quyca: lo que no debe subirse
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.agent_logs/
+dist/
+build/
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.p12
+id_rsa*
+id_ed25519*
